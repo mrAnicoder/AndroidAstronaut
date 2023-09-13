@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Kotlin and android studio basics**
 
-- 📫 How to reach me **aadarshsinghrathore77@gmail.com**
+- 📫 How to reach me **andrdastronaut77@gmail.com**
 
 - ⚡ Fun fact **I want every single topic's knowledge in android**
 
